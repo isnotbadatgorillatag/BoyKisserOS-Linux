@@ -10,7 +10,7 @@
 
 [![](https://dcbadge.vercel.app/api/server/xuw6BNXXE7)](https://discord.gg/xuw6BNXXE7)
 
-   <h3><b>BoyKisser OS</b> is a Linux distribution <b>made for weebs</b>, based on ArchLinux and NyarchLinux.</h3><br />
+   <h3><b>BoyKisser OS</b> is a Linux distribution <b>made for silly boykissers</b>, based on ArchLinux and NyarchLinux.</h3><br />
 
 </div>
 
