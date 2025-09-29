@@ -1,6 +1,6 @@
 # BoyKisser OS
 <div align="center">
-   <img src="https://user-images.githubusercontent.com/67018178/219306815-448eea25-d0f3-4512-8d4f-f8167e21841a.png" width="300px" style="margin:auto;"/>
+   <img src="https://images.seeklogo.com/logo-png/49/2/boykisser-logo-png_seeklogo-494559.png" width="300px" style="margin:auto;"/>
 
 ![](https://img.shields.io/github/v/release/NyarchLinux/NyarchLinux?include_prereleases&label=BoyKisser%20Release&style=for-the-badge)
 ![GitHub Repo stars](https://img.shields.io/github/stars/NyarchLinux/NyarchLinux?style=for-the-badge&color=%23daaa3f)
