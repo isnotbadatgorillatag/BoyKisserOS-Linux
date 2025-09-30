@@ -14,6 +14,10 @@
 
 </div>
 
+
+
+## Attention!
+This project is currently undoable for me because im using Ubuntu WSL and i cant get Arch WSL running nothing wrong with Nyarch but i just cant do that!
 ## Is it safe to use?
 BoyKisser OS is **not recommended as a daily driver**. Bugs and issues may occur, and the distro is not developed by a large team of experts.  
 If you want a similar experience with fewer risks, try [Nyarcher](https://github.com/NyarchLinux/Nyarcher), a script to install BoyKisser customizations on top of any other Linux distro with Gnome preinstalled.  
